@@ -1,0 +1,25 @@
+.notFound-Container {
+    width: 700px;
+    height: 500px;
+    margin: 100px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.heading-one {
+    color: red;
+    font-size: 50px;
+    font-weight: 900;
+}
+
+.notFound-btn {
+    background-color: goldenrod;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    font-weight: 700;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}

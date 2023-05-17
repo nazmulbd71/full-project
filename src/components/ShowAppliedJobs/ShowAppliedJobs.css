@@ -1,0 +1,27 @@
+.detail-container {
+    width: 900px;
+    height: 200px;
+    margin: 30px auto;
+    border: 2px solid purple;
+    padding: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 10px;
+}
+
+.details-one {
+    display: flex;
+    align-items: center;
+}
+
+.details-one img {
+    width: 145px;
+    height: 50px;
+    background-color: beige;
+    margin-right: 30px;
+}
+
+.details-child {
+    padding-left: 20px;
+}
